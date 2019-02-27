@@ -12,7 +12,7 @@ items:
     source:
       git:
         ref: pipeline
-        uri: http://bitbucket.org/skadorwa/cart-service.git
+        uri: https://github.com/arturszaniawski1992/openshift-task.git
       type: Git
     strategy:
       type: JenkinsPipeline
